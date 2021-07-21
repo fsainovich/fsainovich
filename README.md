@@ -1,4 +1,13 @@
-### Hi there 👋
+Hey 👋🏻 !
+
+Contact
+
+<a href="mailto:fernando.sainovich@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fernando-sainovich-066899115/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!--
 **fsainovich/fsainovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
